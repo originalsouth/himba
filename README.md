@@ -1,3 +1,3 @@
 # Himba
 Measure how well you can distinguish blue and red tints of green colors
-![](himba.svg)
+![](https://digitalphysics.nl/himba/himba.svg)
